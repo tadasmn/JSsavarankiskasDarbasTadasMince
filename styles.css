@@ -1,0 +1,15 @@
+.element {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+.element3 {
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    display: inline-block;
+    margin:20px;
+}
+
+
